@@ -2,6 +2,10 @@
 
 Bem-vindo ao repositório **WEB-SITE-ANDROID**! Este projeto consiste em um site desenvolvido durante o curso do <a href="https://www.cursoemvideo.com">Curso em Vídeo</a>, com o objetivo de aprimorar habilidades em HTML5 e CSS3.
 
+## Website Layout
+
+<img src="images/images-readme/Captura de tela 2025-03-24 081347.png">
+
 ## 📂 Estrutura do Projeto
 
 O repositório está organizado da seguinte forma:
