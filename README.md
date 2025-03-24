@@ -6,17 +6,17 @@ Bem-vindo ao repositório **WEB-SITE-ANDROID**! Este projeto consiste em um site
 
 O repositório está organizado da seguinte forma:
 
-CSS/: Contém os arquivos de estilos (CSS) utilizados no site.
+**CSS/**: Contém os arquivos de estilos (CSS) utilizados no site.
 
-fonts/: Diretório para as fontes utilizadas no projeto.
+**fonts/**: Diretório para as fontes utilizadas no projeto.
 
-images/: Pasta com as imagens incorporadas no site.
+**images/**: Pasta com as imagens incorporadas no site.
 
-index.html: Página principal do site.
+**index.html**: Página principal do site.
 
-LICENSE: Arquivo contendo a licença do projeto.
+**LICENSE**: Arquivo contendo a licença do projeto.
 
-README.md: Este arquivo com informações sobre o projeto.
+**README.md**: Este arquivo com informações sobre o projeto.
 
 ## 🎨 Tecnologias Utilizadas
 
@@ -26,31 +26,10 @@ README.md: Este arquivo com informações sobre o projeto.
 
 1. Faça um fork deste repositório.​
 
-2. Crie uma branch para sua feature (git checkout -b feature/nova-feature).​
+2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).​
 
-3. Commit suas alterações (git commit -m 'Adiciona nova feature').​
+3. Commit suas alterações (`git commit -m 'Adiciona nova feature'`).​
 
-4. Faça o push para a branch (git push origin feature/nova-feature).​
+4. Faça o push para a branch (`git push origin feature/nova-feature`).​
 
 5. Abra um Pull Request.
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
-
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
-  
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
