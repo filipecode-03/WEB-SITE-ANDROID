@@ -37,3 +37,7 @@ O repositório está organizado da seguinte forma:
 4. Faça o push para a branch (`git push origin feature/nova-feature`).​
 
 5. Abra um Pull Request.
+
+<hr>
+
+Sinta-se à vontade para explorar, utilizar e modificar este projeto conforme suas necessidades. Se tiver dúvidas ou sugestões, não hesite em entrar em contato!
